@@ -4,6 +4,6 @@ You knock on the door and Timothy answers the door welcoming you and your friend
 
 What do you do next?
 
-## [Go for the drinks?](timothy.md)
+## [Go for the drinks?](drinks.md)
 
-## [Go for the food?](drinks.md)
+## [Go for the food?](timothy.md)
