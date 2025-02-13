@@ -6,4 +6,4 @@ What do you do next?
 
 ## [Go for the drinks?](drinks.md)
 
-## [Go for the food?](timothy.md)
+## [Go for the food?](food.md)
